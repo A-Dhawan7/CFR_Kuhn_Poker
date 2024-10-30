@@ -47,7 +47,6 @@ This project implements a Kuhn Poker bot using **Counterfactual Regret Minimizat
 
 ## Example output:
 
-yaml
 Results against Passive Bot:
   Win Rate: 75.00%
   Loss Rate: 25.00%
